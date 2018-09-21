@@ -1,0 +1,15 @@
+一些大牛：韩松,深鉴科技
+他提出的 Deep Compression 模型压缩技术曾获得 ICLR'16 最佳论文，ESE 稀疏神经网络推理引擎获得 FPGA'17 最佳论文
+
+ICLR'16 最佳论文：Deep Compression: Compression Deep Neural Networks With Pruning, Trained Quantization And Huffman Coding
+https://blog.csdn.net/shuzfan/article/details/51383809
+
+斯坦福博士韩松毕业论文：面向深度学习的高效方法与硬件  https://zhuanlan.zhihu.com/p/30211134
+
+
+腾讯 AI Lab 机器学习中心今日宣布成功研发自动化深度学习模型压缩框架——PocketFlow，并即将在近期发布开源代码。
+
+韩松、李佳等人提出AMC：用于移动端模型自动压缩与加速的AutoML
+https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650748544&idx=2&sn=a028bec83587c58cca32b308fce28bee&chksm=871af2feb06d7be8709b0109b34714c7e5028b85a19f31dcb3219d6a1acc59e75aef5190aa28&scene=21#wechat_redirect
+论文链接：https://arxiv.org/pdf/1802.03494.pdf
+
