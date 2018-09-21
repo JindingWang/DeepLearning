@@ -1,0 +1,38 @@
+知乎相关问题：
+https://www.zhihu.com/question/60067846/answer/444762501
+
+相关会议与期刊：Nature Medicine， 美国癌症研究协会年度会议（AACR）， WAIC会议, 柳叶刀
+
+乳腺癌诊断：An Augmented Reality Microscope for Real-time Automated Detection of Cancer
+https://chinagdg.org/2018/04/an-augmented-reality-microscope-for-cancer-detection/
+
+
+A radiomics approach to assess tumour-infiltrating CD8 cells and response to anti-PD-1 or anti-PD-L1 immunotherapy: an imaging biomarker, retrospective multicohort study
+通过CT结合rna数据分析患者免疫治疗受益状态
+
+
+DeepVariant 这个是谷歌的一个开源项目，是有具体的论文并且在github上开源，主要是类似call SNV的方法：算法不同于一般基于统计方法（隐马尔科夫模型，
+朴素贝叶斯和高斯混合分布的模型）的软件，而是利用了卷积神经网络识别变异位点。DeepVariant的做法就是利用了现有的图像识别卷积神经网络，具体用的神经
+网络架构inception v2。它利用一种转换方法，把测序数据与reference的比对结果转变成RGB图片（只取存在变异位点的位置），然后用现有的图像识别网络来分
+析其中的变异位点，大致转化规则：
+https://www.zhihu.com/question/60067846  zpeng用户
+
+
+Nature Medicine论文
+clinically applicable deep learning for diagnosis and referral in retinal disease
+automated DNN surveillance of cranial images for acute neurologic events
+https://www.zhihu.com/question/60067846
+
+
+Kaggle  Data Science Bowl 2017   Can you improve lung cancer detection?
+https://www.kaggle.com/c/data-science-bowl-2017
+
+
+天池医疗AI大赛[第一季]：肺部结节智能诊断
+https://tianchi.aliyun.com/competition/information.htm?spm=5176.100067.5678.2.4c5fd3bpsVoIW&raceId=231601
+
+比较成熟的应用有：
+1.新生儿眼底图片筛查
+2. 糖尿病视网膜筛查
+3. 病理图片中有丝分裂细胞的定位与检测
+4. 肺部CT中肺节点定位与检测
